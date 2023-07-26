@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=curious-cat11&label=Profile%20views&color=0e75b6&style=flat" alt="curious-cat11" /> </p>
 
-- 🔭 I’m currently working on (https://github.com/mike-koala-bear/capybara
+- 🔭 I’m currently working on https://github.com/mike-koala-bear/capybara
 - 🌱 I’m currently learning **JavaScript and Ruby on Rails**
 
 <h3 align="left">Languages and Tools:</h3>
